@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MxThando&theme=" />
-
 
 <!-- Actual text -->
 
@@ -18,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Economics, Society and Data
 - 🌱 I’m currently learning Data Manipulation, Data visualization, Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning and Modelling projects
-- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MxThando&theme=" />
 
 <!-- Icons -->
 
