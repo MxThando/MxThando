@@ -5,7 +5,7 @@ MxThando/MxThando is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Thando Msutwana header](https://raw.githubusercontent.com/MxThando/<OWNER>/<OWNER>/"profile_banner.png" "Header")]
+[![Thando Msutwana header](https://raw.githubusercontent.com/MxThando/MxThando/main/profile_banner.png "Header")](MxThando.github.io)
 
 
 
